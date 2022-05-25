@@ -1,0 +1,27 @@
+[
+  {
+    "id": "5fe746e5c414e1d3dd9b07724b489adc",
+    "name": "Luke Skywalker",
+    "email": "skywall@oregonstate.edu"
+  },
+  {
+    "id": "3f391cb39287d496ccc260db6eec7187",
+    "name": "Leia Organa",
+    "email": "organal@oregonstate.edu"
+  },
+  {
+    "id": "db99e33acef83e2f90b196a005bbf4d6",
+    "name": "Rey",
+    "email": "rey@oregonstate.edu"
+  },
+  {
+    "id": "f6348d6654e422f3f9cb63cf65e0fe18",
+    "name": "Obi Wan Kenobi",
+    "email": "kenobio@oregonstate.edu"
+  },
+  {
+    "id": "24265917d3bee910da3a2065a17b52a4",
+    "name": "Finn",
+    "email": "finn@oregonstate.edu"
+  }
+]
